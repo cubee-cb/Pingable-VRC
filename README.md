@@ -13,7 +13,7 @@ Stats:
 - 1 synced int parameter (8 bytes) (It may also sync the float parameter, though it doesn't need to)
 - 1 2k texture (for 256x256 per icon)
 
-Included sound effect is the Boss Warning ping from [Ninja Cat Remewstered](https://pixelshock.itch.io/ninja-cat-remewstered).
+Included sound effect is the System Menu Confirm sound from [Ninja Cat Remewstered](https://pixelshock.itch.io/ninja-cat-remewstered).
 
 ### How it works
 "pingable/ping" is set from the menu, which says which icon to spawn.
