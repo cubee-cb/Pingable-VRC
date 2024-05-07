@@ -10,9 +10,8 @@ Stats:
 - 1 particle system
 - 1 material (VRChat/Mobile/Particles/Additive)
 - 2 animator layers
-- 1 synced int parameter (8 bytes)
+- 1 synced int parameter (8 bytes) (It may also sync the float parameter, though it doesn't need to)
 - 1 2k texture (for 256x256 per icon)
-It may also sync the float parameter, though it doesn't need to.
 
 Included sound effect is the Boss Warning ping from [Ninja Cat Remewstered](https://pixelshock.itch.io/ninja-cat-remewstered).
 
